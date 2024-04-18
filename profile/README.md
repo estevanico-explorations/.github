@@ -5,7 +5,7 @@ The world's history is written by the victors and the victors are almost all exc
 
 > **Estevanico** (c. 1500–1539), also known as Esteban de Dorantes and Estevanico the Moor, was the first person of African descent to explore North America. Little is known about his background but contemporary accounts described him as a "negro alárabe" or "Arabic-speaking black man" native to Azemmour, Morocco. In 1522, he was sold as a slave to the Spanish nobleman Andrés Dorantes de Carranza in the Portuguese-controlled Moroccan town of Azemmour. - [Wikipedia](https://en.wikipedia.org/wiki/Estevanico)
 
-![](./estevanico.png)
+![](https://raw.githubusercontent.com/learning-and-explorations/.github/main/profile/estevanico.png)
 
 Estevanico participated in the Narváez expedition, which set out from Cuba under the leadership of Pánfilo de Narváez to explore and colonize Spanish Florida. This person is an explorer and this organization is about exploration. Therefore I am naming it after his legacy.
 
